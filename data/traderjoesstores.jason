@@ -1,0 +1,47 @@
+[
+ {
+   "Trader Joes Store":"Bridgewater",
+   "longitude": -74.55698226,
+   "latitude": 40.56596827
+ },
+ {
+   "Trader Joes Store": "North Brunswick",
+   "longitude": -74.4526942,
+   "latitude": 40.48121814
+ },
+ {
+   "Trader Joes Store": "Florharm  Park",
+   "longitude": -74.38796844,
+   "latitude": 40.81642497
+ },
+ {
+   "Trader Joes Store": "Milburn",
+   "longitude": -74.2915283,
+   "latitude": 40.74077592
+ },
+ {
+   "Trader Joes Store": "Westfield",
+   "longitude": -74.34882555,
+   "latitude": 40.66017433
+ },
+ {
+   "Trader Joes Store": "Clifton",
+   "longitude": -74.14859367,
+   "latitude": 40.85226791
+ },
+ {
+   "Trader Joes Store": "Princeton",
+   "longitude": -74.66479806,
+   "latitude": 40.31840237
+ },
+ {
+   "Trader Joes Store": "Denville",
+   "longitude": -74.5110897,
+   "latitude": 40.88990256
+ },
+ {
+   "Trader Joes Store": "Hoboken",
+   "longitude": -74.03016369,
+   "latitude": 40.78099746
+},
+]
